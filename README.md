@@ -1,1 +1,1 @@
-# Trilogy-NodeJs
+# Trilogy Project - Portfolio Generator
